@@ -533,7 +533,8 @@ var pa = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
               srcSet:
                 "https://framerusercontent.com/images/LXT5cV4ExoLFdItnoMVZcLHiUrA.jpg?scale-down-to=512 512w,https://framerusercontent.com/images/LXT5cV4ExoLFdItnoMVZcLHiUrA.jpg?scale-down-to=1024 1024w,https://framerusercontent.com/images/LXT5cV4ExoLFdItnoMVZcLHiUrA.jpg?scale-down-to=2048 2048w,https://framerusercontent.com/images/LXT5cV4ExoLFdItnoMVZcLHiUrA.jpg?scale-down-to=4096 4096w,https://framerusercontent.com/images/LXT5cV4ExoLFdItnoMVZcLHiUrA.jpg 5184w",
             },
-      LCkifZlII: (d = a ?? o.LCkifZlII) !== null && d !== void 0 ? d : "TUZKI",
+      LCkifZlII:
+        (d = a ?? o.LCkifZlII) !== null && d !== void 0 ? d : "NUDAENG",
     };
   },
   xa = (e, t) =>
@@ -629,8 +630,9 @@ var pa = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                       "--framer-text-alignment": "left",
                       "--framer-text-color":
                         "var(--extracted-r6o4lv, var(--token-2c53595f-e91f-4d4a-91d0-904b1b7f861f, rgb(71, 71, 71)))",
+                      marginLeft: "40px",
                     },
-                    children: "Yours Truly",
+                    children: "NUDAENG",
                   }),
                 }),
                 className: "framer-1um8vsh",
@@ -729,7 +731,7 @@ Te(Ve, {
     type: u.ResponsiveImage,
   },
   LCkifZlII: {
-    defaultValue: "TUZKI",
+    defaultValue: "NUDAENG",
     displayTextArea: !1,
     placeholder: "",
     title: "Title",
@@ -3855,7 +3857,7 @@ var qr = (e) => e.preventDefault(),
                                       "var(--token-ee88d82e-f586-4351-9e0d-739b0761209d, rgb(138, 138, 138))",
                                   },
                                   children:
-                                    "Tuzki is a popular illustrated bunny character created by animator Momo Wang when she was an undergraduate at the Communication University of China",
+                                    "NUDAENG - a popular soft toy that has captured the hearts of many people and become world famous",
                                 }),
                               }),
                               className: "framer-7rcg9x",
@@ -3879,7 +3881,9 @@ var qr = (e) => e.preventDefault(),
                                   __perspectiveFX: !1,
                                   __targetOpacity: 1,
                                   className: "framer-16zhdjl-container",
-                                  style: { transformPerspective: 1200 },
+                                  style: {
+                                    transformPerspective: 1200,
+                                  },
                                   children: m(vt, {
                                     akGVifb33: gn(
                                       {
@@ -3890,7 +3894,12 @@ var qr = (e) => e.preventDefault(),
                                     height: "100%",
                                     id: "uSBxVRpQa",
                                     layoutId: "uSBxVRpQa",
-                                    LCkifZlII: "TUZKI",
+                                    LCkifZlII: m("p", {
+                                      style: {
+                                        marginLeft: "24px",
+                                      },
+                                      children: "NUDAENG",
+                                    }),
                                     width: "100%",
                                   }),
                                 }),
@@ -3967,7 +3976,7 @@ var qr = (e) => e.preventDefault(),
                                   name: "Row",
                                   children: [
                                     m(Qe, {
-                                      href: "https://x.com/tuzkictosol/",
+                                      href: "https://x.com/nudaeng_club",
                                       nodeId: "YzJhKtPSZ",
                                       children: m(Kt, {
                                         __framer__animate: { transition: Or },
@@ -4011,7 +4020,7 @@ var qr = (e) => e.preventDefault(),
                                       }),
                                     }),
                                     m(Qe, {
-                                      href: "https://dexscreener.com/solana/5anov52ambscupmbkiwqcqsswzcnf3w9rbdkyglbpyaf",
+                                      href: "https://dexscreener.com/solana/CFWnvL9gvg2KiRUZjUm4ARQesJqD2PUrkhyjB9ENpump",
                                       nodeId: "vTADYutR9",
                                       children: m(Kt, {
                                         __framer__animate: { transition: Xr },
@@ -4055,7 +4064,7 @@ var qr = (e) => e.preventDefault(),
                                       }),
                                     }),
                                     m(Qe, {
-                                      href: "https://t.me/tuzkicto_sol",
+                                      href: "https://t.me/nudaeng_club",
                                       nodeId: "eBaMTpM2g",
                                       children: m(Kt, {
                                         __framer__animate: { transition: Gr },
@@ -4553,125 +4562,22 @@ var qr = (e) => e.preventDefault(),
                           verticalAlignment: "top",
                           withExternalLayout: !0,
                         }),
-                        x() &&
-                          m(ue, {
-                            background: {
-                              alt: "",
-                              fit: "fill",
-                              intrinsicHeight: 132,
-                              intrinsicWidth: 132,
-                              loading: G(2226),
-                              pixelHeight: 264,
-                              pixelWidth: 235,
-                              src: "images/what.gif",
-                            },
-                            className: "framer-myt51d hidden-bihej8",
-                            "data-framer-name": "Tuzki",
-                            name: "Tuzki",
-                          }),
-                        x() &&
-                          m("section", {
-                            className: "framer-1pjbzgr hidden-bihej8",
-                            "data-framer-name": "Projects List - Desktop",
-                            name: "Projects List - Desktop",
-                            children: m(or, {
-                              children: m(In, {
-                                query: {
-                                  from: {
-                                    alias: "Rvb2do8fu",
-                                    data: Mr,
-                                    type: "Collection",
-                                  },
-                                  select: [
-                                    {
-                                      collection: "Rvb2do8fu",
-                                      name: "l0ACDgFnw",
-                                      type: "Identifier",
-                                    },
-                                    {
-                                      collection: "Rvb2do8fu",
-                                      name: "wqVDsNwny",
-                                      type: "Identifier",
-                                    },
-                                    {
-                                      collection: "Rvb2do8fu",
-                                      name: "F8jCfieHR",
-                                      type: "Identifier",
-                                    },
-                                    {
-                                      collection: "Rvb2do8fu",
-                                      name: "id",
-                                      type: "Identifier",
-                                    },
-                                    {
-                                      collection: "Rvb2do8fu",
-                                      name: "qM3dnd_Ox",
-                                      type: "Identifier",
-                                    },
-                                  ],
-                                },
-                                children: (k, E, M) => {
-                                  const test = k.map((item, i) => ({
-                                    ...item,
-                                    l0ACDgFnw: {
-                                      src:
-                                        i === 0
-                                          ? "images/st3.png"
-                                          : i === 1
-                                          ? "images/welcome.gif"
-                                          : "images/st2.png",
-                                    },
-                                  }));
 
-                                  return m(ar, {
-                                    children: test.map(
-                                      (
-                                        {
-                                          l0ACDgFnw: U,
-                                          wqVDsNwny: N,
-                                          F8jCfieHR: Q,
-                                          id: V,
-                                          qM3dnd_Ox: z,
-                                        },
-                                        R
-                                      ) => (
-                                        N ?? (N = ""),
-                                        Q ?? (Q = ""),
-                                        z ?? (z = ""),
-                                        m(
-                                          ge,
-                                          {
-                                            id: `Rvb2do8fu-${V}`,
-                                            children: m(sr.Provider, {
-                                              value: { qM3dnd_Ox: z },
-                                              children: m(te, {
-                                                height: 284,
-                                                y: 3088,
-                                                children: m(Be, {
-                                                  className:
-                                                    "framer-1cel9p9-container",
-                                                  children: m(xt, {
-                                                    a2MW3PjAo: Q,
-                                                    height: "100%",
-                                                    id: "HDGvSmsAK",
-                                                    JMXsk_HCw: Fn(U),
-                                                    layoutId: "HDGvSmsAK",
-                                                    sCR5wlLuD: N,
-                                                    width: "100%",
-                                                  }),
-                                                }),
-                                              }),
-                                            }),
-                                          },
-                                          V
-                                        )
-                                      )
-                                    ),
-                                  });
-                                },
-                              }),
-                            }),
-                          }),
+                        m(ue, {
+                          background: {
+                            alt: "",
+                            fit: "fill",
+                            intrinsicHeight: 132,
+                            intrinsicWidth: 132,
+                            loading: G(2226),
+                            pixelHeight: 264,
+                            pixelWidth: 235,
+                            src: "images/what.gif",
+                          },
+                          className: "framer-myt51d hidden-bihej8",
+                          "data-framer-name": "NUDAENG",
+                          name: "NUDAENG",
+                        }),
                       ],
                     }),
                   ],
